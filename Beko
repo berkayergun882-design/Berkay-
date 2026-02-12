@@ -1,0 +1,5 @@
+# Kullanıcıdan veri alma
+isim = input("Adın nedir? ")
+
+# F-string kullanarak ekrana yazdırma
+print(f"Merhaba {beko}! Python dünyasına hoş geldin.")
